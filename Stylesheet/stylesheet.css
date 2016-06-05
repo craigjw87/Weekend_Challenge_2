@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue";
+  padding: 2px 60px;
+}
+
+h1 {
+  font-family: Helvetica, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue";
+}
+
+div {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
