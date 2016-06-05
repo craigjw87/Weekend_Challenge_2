@@ -11,3 +11,6 @@ div {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+#students p span {
+font-weight: bold;
+}

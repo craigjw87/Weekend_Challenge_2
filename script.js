@@ -32,7 +32,7 @@ $(document).ready(function(){
        }); // End ajax
 
   function newStudent (){
-    $("#students").text("First Name: " + allStudents.students[index].first_name + " Last Name: " + allStudents.students[index].last_name + " City: " + allStudents.students[index].city + " Shoutout: " + allStudents.students[index].shoutout + " Student Number: " + index + "/20").css("font-weight","Bold");
+    $("#students").html("<p><span>First Name: </span>" + allStudents.students[index].first_name + "</p>" + " <p><span>Last Name: </span>" + allStudents.students[index].last_name + "</p>" + "<p><span>City: </span>" + allStudents.students[index].city + "</p>" + "<p><span>Shoutout: </span>" + allStudents.students[index].shoutout + " <p><span>Student Number: </span>" + index + "/20" + "</p>");
   }
 
   // Next Button Functionality
