@@ -1,4 +1,4 @@
-# WEEKEND CHALLENGE 2 DESCRIPTION
+# WEEKEND CHALLENGE 2
 
 You first task is to make an AJAX call from the client side app.js, using the .ajax method and access the json data through the url above. When successful, it should bring the data back down. You will then need to combine that with what you have learned about parsing objects and arrays to complete the challenge.
 
